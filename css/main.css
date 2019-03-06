@@ -4,6 +4,20 @@
     box-sizing: border-box;
 }
 
+h1 {
+    font-family: sans-serif;
+}
+
+li {
+    list-style: none;
+}
+
+p,
+li {
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
 .token.selector {
     color: black;
 }
